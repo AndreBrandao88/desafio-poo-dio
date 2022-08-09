@@ -28,17 +28,16 @@ public class Main {
         
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de java");
-        mentoria.setDesricao("descricao mentoria java");
+        mentoria.setDescricao("descricao mentoria java");
         mentoria.setData(LocalDate.now());
         
-        
-        
+         
         
         System.out.println(curso1);
         System.out.println(curso2);
         System.out.println(mentoria);
         
-        // TODO code application logic here
+        // TODO code application loggitic here
     }
     
 }
